@@ -1,18 +1,18 @@
-#Fake API with JSON Server
+# Fake API with JSON Server
 
 Create a quick back-end for prototyping and playing around.
 Have fun!!!
 
-##Installation
+## Installation
 
 ```
 git clone git@github.com:john2220/fake-api.git
 npm install
-`` 
+```
 
-##Usage
+## Usage
 
-###Basic Server
+### Basic Server
 
 ```
 npm run json
@@ -24,7 +24,7 @@ npm run json
 npm run db
 ```
 
-###Custom Routes
+### Custom Routes
 
 ```
 npm run custom:routes
