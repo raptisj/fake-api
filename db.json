@@ -1,0 +1,36 @@
+{
+	"rock_songs": [
+		{
+			"title": "Africa",
+			"band": "Toto"
+		},
+		{
+			"title": "Fkj",
+			"band": "Moments"
+		}
+	],
+	"rock_bands": [
+		{
+			"name": "prestige"
+		},
+		{
+			"name": "columbia"
+		}
+	],
+	"classical_pieces": [
+		{
+			"name": "prestige"
+		},
+		{
+			"name": "columbia"
+		}
+	],
+	"classical_artists": [
+		{
+			"name": "prestige"
+		},
+		{
+			"name": "columbia"
+		}
+	]
+}
